@@ -22,7 +22,7 @@
     <PackageReference Include="Kent.Cryptography.Obfuscation" Version="2.0.0" />
     <PackageReference Include="SFX.Random.CSharp" Version="1.0.35" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.32.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
   </ItemGroup>
 
   <ItemGroup>
